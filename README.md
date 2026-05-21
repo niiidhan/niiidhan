@@ -38,20 +38,9 @@ Tools       Git • Docker
 
 ---
 
-### Stats
-
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=niiidhan&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niiidhan&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-<a href="https://github.com/niiidhan">GitHub</a> •
-<a href="https://linkedin.com">LinkedIn</a> •
-<a href="mailto:fariqueparammel@gmail.com">Email</a>
+<a href="https://www.linkedin.com/in/nidhan-p/">LinkedIn</a> •
+<a href="mailto:NIDHANWORK@GMAIL.COM">Email</a>
 </p>
 
 <p align="center">
